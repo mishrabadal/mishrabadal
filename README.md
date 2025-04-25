@@ -9,6 +9,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/mishrabadal988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mishrabadal988" height="30" width="40" /></a>
+
+  <a href="https://www.geeksforgeeks.org/user/mishrabadal988/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="mishrabadal988" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/mishrabadal" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="mishrabadal988" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
