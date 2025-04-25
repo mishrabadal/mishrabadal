@@ -11,7 +11,7 @@
 <a href="https://www.leetcode.com/mishrabadal988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mishrabadal988" height="30" width="40" /></a>
 
   <a href="https://www.geeksforgeeks.org/user/mishrabadal988/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="mishrabadal988" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/mishrabadal" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="mishrabadal988" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/mishrabadal" target="blank"><img align="center" src="https://scontent.fdel81-1.fna.fbcdn.net/v/t39.30808-6/310392454_523158479819476_6417259191138905767_n.png?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-HkcFNRRY5wQ7kNvwFClHmI&_nc_oc=AdnK-ldZVOkbrrzDm3wbpNbE_p_-USf4DPHr9lP5vKboXKOwCXxyLI4WUjO-RXYYz00&_nc_zt=23&_nc_ht=scontent.fdel81-1.fna&_nc_gid=lkHwiHdIgmKFb9wFmgINyA&oh=00_AfEe5r29S4BM_2aOmOzMQVnvNVBn-_1VNJtMR5L8-HpWqQ&oe=6811B486" alt="mishrabadal988" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
